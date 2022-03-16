@@ -10,7 +10,7 @@ import { DataService } from '../data.service';
 export class MenComponent implements OnInit {
 
   men=[];
-
+  searchTerm:string;
   constructor(private router:Router,private dsObj:DataService) { }
 
   ngOnInit() {

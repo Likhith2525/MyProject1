@@ -20,18 +20,16 @@ export class LoginComponent implements OnInit {
   }
 
   onLogin(){
-
     let userCredentials=this.userObj;
     this.us.loginUser(userCredentials).subscribe(
       res=>{
-        if(res.message==="login success"){
-          //save then to local storage
+        if(res.message==="Logged in successfully"){
+          //save tken to local storage
           localStorage.setItem("token",res.token)
           localStorage.setItem("username",res.username)
           localStorage.setItem("userObj",JSON.stringify(res.userObj))
           //update user login status
           this.us.userLoginStatus=true;
-          alert(res.message)
           //navigate to userprofile page
           this.router.navigateByUrl('/home')
         }
@@ -45,4 +43,5 @@ export class LoginComponent implements OnInit {
       }
     )
   }
+
 }

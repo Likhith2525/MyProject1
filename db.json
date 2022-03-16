@@ -1,386 +1,1008 @@
 {
-    "men":[
-        {
-            "id":1,
-            "brand":"Levis",
-            "description":"Men Burgundy & Mustard Yellow Slim Fit Checked Casual Shirt",
-            "image":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13358594/2021/1/28/933977c9-0303-4c41-b0e2-f7dd19bf720a1611827180991-Levis-Men-Shirts-8471611827178183-1.jpg",
-            "carousalimages":[
-                "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13358594/2021/1/28/933977c9-0303-4c41-b0e2-f7dd19bf720a1611827180991-Levis-Men-Shirts-8471611827178183-1.jpg",
-                "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13358594/2021/1/28/af46a5e4-f2f7-45ac-90cc-124bff53acb01611827180913-Levis-Men-Shirts-8471611827178183-5.jpg",
-                "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13358594/2021/1/28/c7318c4f-2add-4de5-9797-6d9b10b4ee641611827180899-Levis-Men-Shirts-8471611827178183-6.jpg"
-            ],
-            "price":"1679/-",
-            "features":[
-              "Spread collar",
-              "Long sleeves",
-              "1 Patch pocket",
-              "Slim fit",
-              "100% Cotton",
-              "Machine Wash",
-              "Product Code: 13358594"
-            ] 
-        },
-        {
-            "id":2,
-            "brand":"WROGN",
-            "description":"Men Burgundy & Black Slim Fit Checked Casual Shirt",
-            "image":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10410142/2019/10/21/935c4612-9355-49ee-9928-a1f4803243ca1571662078278-WROGN-Men-Burgundy--Black-Slim-Fit-Checked-Casual-Shirt-8015-1.jpg",
-            "carousalimages":[
-                "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10410142/2019/10/21/935c4612-9355-49ee-9928-a1f4803243ca1571662078278-WROGN-Men-Burgundy--Black-Slim-Fit-Checked-Casual-Shirt-8015-1.jpg",
-                "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10410142/2019/10/21/6a8c7d8f-fa04-4cb3-943d-fbba9dae1ea71571662078128-WROGN-Men-Burgundy--Black-Slim-Fit-Checked-Casual-Shirt-8015-5.jpg",
-                "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10410142/2019/10/21/78c9823f-e2f8-4126-8b4d-044338a5a5871571662078167-WROGN-Men-Burgundy--Black-Slim-Fit-Checked-Casual-Shirt-8015-4.jpg"
-            ],
-            "price":"1319/-",
-            "features":[
-                "Spread collar",
-                "Long sleeves",
-                "1 Patch pocket",
-                "Slim fit",
-                "100% Cotton",
-                "Machine Wash",
-                "Product Code: 10410142"
-              ]
-             
-        }
-          
-    ],
-
-    "women":[
-        {
-            "id":1,
-            "brand":"Miss Chase",
-            "description":"Women Black Solid Fit and Flare Dress",
-            "carousalimages":[
-             "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/11/23/b7a2fc6c-cb82-4bf5-8c93-4ecae6ac8c161542966081867-1.jpg",
-             "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/11/23/6211c7bf-f36c-4972-8f3c-cd56d12792b11542966081956-4.jpg",
-             "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/11/23/1b5553cd-9011-43d5-80c2-418f8052b59a1542966081918-3.jpg"
-            ],
-            "image":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/11/23/b7a2fc6c-cb82-4bf5-8c93-4ecae6ac8c161542966081867-1.jpg",
-            "price":"1499/-",
-            "features":[
-                "Black solid woven fit and flare dress",
-                "Boat neck",
-                "Short sleeves",
-                "Concealed zip closure",
-                "Flared hem",
-                "Polyester",
-                "Hand Wash",
-                "Product Code: 7867845"
-              ]
-             
-        },
-        {
-            "id":2,
-            "brand":"Athena",
-            "description":"Women Burgundy Lace Maxi Dress",
-            "image":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7409159/2018/9/21/1097e02c-6780-47e5-93b5-db2aff05e2d41537516149860-Athena-Women-Burgundy-Self-Design-Maxi-Dress-9671537516149722-1.jpg",
-            "carousalimages":[
-                "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7409159/2018/9/21/1097e02c-6780-47e5-93b5-db2aff05e2d41537516149860-Athena-Women-Burgundy-Self-Design-Maxi-Dress-9671537516149722-1.jpg",
-                "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7409159/2018/9/21/d92176af-bdc1-4316-b671-f9dc041e7e051537516149888-Athena-Women-Burgundy-Self-Design-Maxi-Dress-9671537516149722-5.jpg",
-                "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7409159/2018/9/21/13876eec-df15-4673-8189-52f1ee5773551537516149805-Athena-Women-Burgundy-Self-Design-Maxi-Dress-9671537516149722-4.jpg"
-            ],
-            "price":"1399/-",
-            "features":[
-                "Self-design woven lace maxi dress",
-                "Round Neck",
-                "Three-quarter sleeves",
-                "Button and concealed zip closure",
-                "Polyester",
-                "Machine Wash",
-                "Product Code: 7409159"
-              ]
-             
-        },
-        {
-            "id": 3,
-            "brand": "SASSAFRAS",
-            "description": "Women Maroon Solid Basic Jumpsuit",
-            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308583/2019/7/29/8c2cb068-5deb-42bc-879d-194cfb7838801564395449672-SASSAFRAS-Women-Jumpsuit-1481564395448748-1.jpg",
-            "carousalimages": [
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308583/2019/7/29/8c2cb068-5deb-42bc-879d-194cfb7838801564395449672-SASSAFRAS-Women-Jumpsuit-1481564395448748-1.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308583/2019/7/29/c0fd65c9-b63d-4057-a1dd-d953eb38cd681564395449653-SASSAFRAS-Women-Jumpsuit-1481564395448748-2.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308583/2019/7/29/b4cfeff3-f787-4be3-97cc-d2b50cef25ad1564395449595-SASSAFRAS-Women-Jumpsuit-1481564395448748-5.jpg"
-            ],
-            "price": "1499/-",
-            "features": [ 
-              "Maroon solid basic jumpsuit with waist tie-ups", 
-              "Has a round neck", 
-              "Three-quarter sleeves",
-              "Hook and eye with concealed zip closure", 
-              "Two pockets",
-              "Product Code: 10308583"
-            ]
-          },
-          {
-            "id": 4,
-            "brand": "QUIERO",
-            "description": "Women Black & Brown Printed Basic Jumpsuit",
-            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13435068/2021/2/1/f1e3ef99-5c9b-437d-ba71-88ebc17e46451612160900285MalachiWomensBlueHighWaistJeansTopsQUIEROWomenTopsQUIEROWome1.jpg",
-            "carousalimages": [
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13435068/2021/2/1/f1e3ef99-5c9b-437d-ba71-88ebc17e46451612160900285MalachiWomensBlueHighWaistJeansTopsQUIEROWomenTopsQUIEROWome1.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13435068/2021/2/1/5259e23f-32b5-4634-8029-b33b7d9941fe1612160900324MalachiWomensBlueHighWaistJeansTopsQUIEROWomenTopsQUIEROWome2.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13435068/2021/2/1/908282a9-089a-44fe-bcd1-85965c23a7a01612160900439MalachiWomensBlueHighWaistJeansTopsQUIEROWomenTopsQUIEROWome4.jpg"
-            ],
-            "price": "1979/-",
-            "features": [
-              "Basic Jumpsuit",
-              "Sleeveless",
-              "Material: Polyester",
-              "Machine Wash",
-              "Round Neck",
-              "Product Code: 13435068"
-            ]
-          },
-          {
-            "id": 5,
-            "brand": "SASSAFRAS",
-            "description": "Sea Wash Peterpan Collar Pleated Dress",
-            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308617/2019/7/29/bd8f2ff9-186b-4983-b9b6-88654f2d13661564380201384-SASSAFRAS-Women-Blue-A-Line-Dress-9861564380199640-1.jpg",
-            "carousalimages": [
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308617/2019/7/29/bd8f2ff9-186b-4983-b9b6-88654f2d13661564380201384-SASSAFRAS-Women-Blue-A-Line-Dress-9861564380199640-1.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308617/2019/7/29/79b44638-5cca-44b1-b858-91cf369310e11564380201363-SASSAFRAS-Women-Blue-A-Line-Dress-9861564380199640-2.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308617/2019/7/29/11dd969e-e446-4d94-b654-e62aeff9fa961564380201283-SASSAFRAS-Women-Blue-A-Line-Dress-9861564380199640-5.jpg"
-            ],
-            "price": "1999/-",
-            "features": [
-              "Fit n flared, flowy silhouette",
-              "Peter-pan collar", "front button closure",
-              "Three-quarter sleeves",
-              "Slim fit",
-              "Material: Poly-georgette",
-              "Dry Clean.",
-              "Product Code: 10308617"
-            ]
-          },
-          {
-            "id": 6,
-            "brand": "Juniper",
-            "description": "Women Maroon & Golden Printed Maxi Dress",
-            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10530424/2019/9/9/3ea53bf0-085e-4ca9-8f3c-0dbbe951aad31568013206327-Juniper-Maroon-Rayon-Printed-Asymmetric-Dress-with-Belt-1371-1.jpg",
-            "carousalimages": [
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10530424/2019/9/9/3ea53bf0-085e-4ca9-8f3c-0dbbe951aad31568013206327-Juniper-Maroon-Rayon-Printed-Asymmetric-Dress-with-Belt-1371-1.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10530424/2019/9/9/db765a04-3584-4503-8bdc-b80ba38350a31568013206268-Juniper-Maroon-Rayon-Printed-Asymmetric-Dress-with-Belt-1371-3.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10530424/2019/9/9/6760748a-0dc5-4dc4-92b5-81de094d676c1568013206240-Juniper-Maroon-Rayon-Printed-Asymmetric-Dress-with-Belt-1371-4.jpg"
-            ],
-            "price": "2098/-",
-            "features": [
-              "Maroon and Golden printed woven maxi dress",
-              "Three-quarter sleeves",
-              "Two pockets and asymmetric hem Comes with a belt",
-              "100% Cotton",
-              "Machine Wash",
-              "Product Code: 10530424"
-            ]
-          },
-          {
-            "id": 7,
-            "brand": "SASSAFRAS",
-            "description": "Women Green & Beige Floral Printed Blouson Top",
-            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364258/2020/1/31/899b523a-f57a-48fb-80cd-8422614f195d1580451588210-SASSAFRAS-Women-Green--Beige-Printed-Blouson-Top-49515804515-1.jpg",
-            "carousalimages": [
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364258/2020/1/31/899b523a-f57a-48fb-80cd-8422614f195d1580451588210-SASSAFRAS-Women-Green--Beige-Printed-Blouson-Top-49515804515-1.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364258/2020/1/31/aaa71235-2b2f-4197-afc4-58976dd8e8301580451588140-SASSAFRAS-Women-Green--Beige-Printed-Blouson-Top-49515804515-3.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364258/2020/1/31/f9fe1a54-341d-4bb2-aa53-db1b2e05ef261580451588104-SASSAFRAS-Women-Green--Beige-Printed-Blouson-Top-49515804515-4.jpg"
-            ],
-            "price": "1499/-",
-            "features": [ 
-              "Green and Beige printed woven blouson top",
-              "Has a round neck", 
-              "Three-quarter sleeves",
-              "Material: Poly Georgette",
-              "Machine Wash",
-              "Product Code: 11364258"
-            ]
-          },
-          {
-            "id": 8,
-            "brand": "Miss Chase",
-            "description": "Women Black Striped Maxi Top",
-            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9722997/2019/5/17/9f5820ed-6ecb-4114-928b-c5052de2b6d11558086747716-Miss-Chase-Women-Black-Striped-Maxi-Top-7701558086746830-1.jpg",
-            "carousalimages": [
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9722997/2019/5/17/9f5820ed-6ecb-4114-928b-c5052de2b6d11558086747716-Miss-Chase-Women-Black-Striped-Maxi-Top-7701558086746830-1.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9722997/2019/5/17/66f93145-0c5f-4369-a5e6-1cf3805f393e1558086747667-Miss-Chase-Women-Black-Striped-Maxi-Top-7701558086746830-3.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9722997/2019/5/17/ea20cc92-2546-4276-a4e2-3c5f91c6256b1558086747630-Miss-Chase-Women-Black-Striped-Maxi-Top-7701558086746830-4.jpg"
-            ],
-            "price": "1849/-",
-            "features": [ 
-              "Black and white striped woven maxi top",
-              "Has a tie-up neck", 
-              "Three-quarter sleeves",
-              "Material: Polyester",
-              "Machine-wash",
-              "Product Code: 9722997"
-            ]
-          },
-          {
-            "id": 9,
-            "brand": "La Zoire",
-            "description": "Women Red & White Striped A-Line Top",
-            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8841591/2019/3/5/e92e95ab-68ed-4c6b-8d3e-146d777f9bbf1551780857345-La-Zoire-Stripe-Shifly-Top-831551780856037-1.jpg",
-            "carousalimages": [
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8841591/2019/3/5/e92e95ab-68ed-4c6b-8d3e-146d777f9bbf1551780857345-La-Zoire-Stripe-Shifly-Top-831551780856037-1.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8841591/2019/3/5/d49b7523-6eb7-4bed-837c-f5cfecf0d2ce1551780857306-La-Zoire-Stripe-Shifly-Top-831551780856037-3.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8841591/2019/3/5/097f584a-90de-4073-8c8b-c1e9ce38e8961551780857216-La-Zoire-Stripe-Shifly-Top-831551780856037-5.jpg"
-            ],
-            "price": "1599/-",
-            "features": [ 
-              "Red and white striped woven A-line top with schiffli embroidered", 
-              "Has a round neck", 
-              "Three-quarter sleeves",
-              "Material: Viscose Rayon",
-              "Hand-wash",
-              "Product Code: 8841591"
-            ]
-          },
-          {
-            "id": 10,
-            "brand": "Ishin",
-            "description": "Women Pink & White Bandhani Print Kurta with Skirt",
-            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11250734/2020/1/29/66e06bc0-39c6-408f-9bf6-9919c28b198f1580281672273-Ishin-Womens-Cotton-Gota-Patti-Embellished-A-Line-Kurta-Skir-1.jpg",
-            "carousalimages": [
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11250734/2020/1/29/66e06bc0-39c6-408f-9bf6-9919c28b198f1580281672273-Ishin-Womens-Cotton-Gota-Patti-Embellished-A-Line-Kurta-Skir-1.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11250734/2020/1/29/d1b69e96-804f-4381-9f35-21e6c2fe277c1580281672092-Ishin-Womens-Cotton-Gota-Patti-Embellished-A-Line-Kurta-Skir-5.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11250734/2020/1/29/91033f9d-6554-4d2f-a1d3-4b0dba25aac31580281672137-Ishin-Womens-Cotton-Gota-Patti-Embellished-A-Line-Kurta-Skir-4.jpg"
-            ],
-            "price": "4999/-",
-            "features": [ 
-              "Pink and white bandhani print kurta with skirt",
-              "Top fabric: Pure Cotton",
-              "Bottom fabric: Pure Cotton",
-              "Dry-clean" ,
-              "three-quarter sleeves",
-              "Product Code: 11250734"
-            ]
-          },
-          {
-            "id": 11,
-            "brand": "Libas",
-            "description": "Women Olive Brown & Golden Printed Kurti with Dhoti Pants & Ethnic Jacket",
-            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9720497/2019/6/1/7d7dd721-6351-4c0a-abf9-014b93def3111559362134259-Libas-Women-Olive-Brown--Golden-Printed-Kurti-with-Dhoti-Pan-1.jpg",
-            "carousalimages": [
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9720497/2019/6/1/7d7dd721-6351-4c0a-abf9-014b93def3111559362134259-Libas-Women-Olive-Brown--Golden-Printed-Kurti-with-Dhoti-Pan-1.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9720497/2019/6/1/afe936b6-5f99-4cae-9314-6cfe022976b71559362134202-Libas-Women-Olive-Brown--Golden-Printed-Kurti-with-Dhoti-Pan-4.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9720497/2019/6/1/e9e23343-9e2a-43b4-b834-488ceea522401559362134167-Libas-Women-Olive-Brown--Golden-Printed-Kurti-with-Dhoti-Pan-6.jpg"
-            ],
-            "price": "2599/-",
-            "features": [ 
-              "Set consists of kurti, dhoti pants and ethnic jacket", 
-              "Three-quarter sleeves",
-              "Hook and eye closure", 
-              "Top fabric: Viscose Rayon",
-              "Bottom fabric: Viscose Rayon",
-              "Machine-wash",
-              "Product Code: 9720497"
-            ]
-          },
-          {
-            "id": 12,
-            "brand": "ZIYAA",
-            "description": "Women Pink & Charcoal Grey Foil Print Kurta with Palazzos",
-            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12948526/2020/12/5/7b75e2da-fe4c-48eb-80dd-77b7ff5b9c3d1607143510214-ZIYAA-Women-Pink--Charcoal-Grey-Foil-Print-Kurta-with-Palazz-1.jpg",
-            "carousalimages": [
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12948526/2020/12/5/7b75e2da-fe4c-48eb-80dd-77b7ff5b9c3d1607143510214-ZIYAA-Women-Pink--Charcoal-Grey-Foil-Print-Kurta-with-Palazz-1.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12948526/2020/12/5/6a3c7054-6b48-47c4-b502-8bd9e867a1181607143510033-ZIYAA-Women-Pink--Charcoal-Grey-Foil-Print-Kurta-with-Palazz-4.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12948526/2020/12/5/f931754a-d306-4103-b039-cce86e8e5bd71607143509970-ZIYAA-Women-Pink--Charcoal-Grey-Foil-Print-Kurta-with-Palazz-5.jpg"
-            ],
-            "price": "3877/-",
-            "features": [ 
-              "Pink and charcoal grey printed kurta with palazzos", 
-              "Has a keyhole neck", 
-              "Three-quarter sleeves",
-              "Slip-on closure", 
-              "Top fabric: Silk Blend",
-              "Bottom fabric: Silk Blend",
-              "Dry-clean",
-              "Product Code: 12948526"
-            ]
-          },
-          {
-            "id": 13,
-            "brand": "Divena",
-            "description": "Women Peach-Coloured Gotta Patti Printed Cotton Anarkali With Long Ethnic Jacket",
-            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11919308/2020/6/24/5c3f7811-0c88-4959-b2ac-34a11aed3c9d1592978431386EmbroideredStraightKurtaKurtasDivenaWomenKurtasDivenaWomenKu1.jpg",
-            "carousalimages": [
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11919308/2020/6/24/5c3f7811-0c88-4959-b2ac-34a11aed3c9d1592978431386EmbroideredStraightKurtaKurtasDivenaWomenKurtasDivenaWomenKu1.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11919308/2020/6/24/fef88fbb-741e-425f-8252-6d7bae26a5871592978431628EmbroideredStraightKurtaKurtasDivenaWomenKurtasDivenaWomenKu4.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11919308/2020/6/24/1965cce2-3941-4a6d-846b-43de0da077d51592978431781EmbroideredStraightKurtaKurtasDivenaWomenKurtasDivenaWomenKu6.jpg"
-            ],
-            "price": "5999/-",
-            "features": [ 
-              "peach-coloured anarkali.",
-              "Featuring round neck", 
-              "Flared hem, gotta patti", 
-              "Three-quarter sleeves",
-              "Material: Cotton",
-              "Machine-wash", 
-              "Product Code: 11919308"
-            ]
-          },
-          {
-            "id": 14,
-            "brand": "Tokyo Talkies",
-            "description": "Women Off-White & Grey Striped Double-Breasted Casual Pure Cotton Blazer",
-            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/10/7/09fe7f48-fe69-4e9c-9bb0-7b2da524fef31602026160273-1.jpg",
-            "carousalimages": [
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/10/7/09fe7f48-fe69-4e9c-9bb0-7b2da524fef31602026160273-1.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/10/7/11686485-aab6-446c-8fa6-92eb6e7c86111602026160413-4.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/10/7/e7dbede2-154d-4476-be4d-24c4431ed93d1602026160459-5.jpg"
-            ],
-            "price": "1999/-",
-            "features": [ 
-              "Off-white and grey striped regular-fit casual blazer", 
-              "Double-breasted with button closures", "long sleeves",
-              "Two flapped pockets",
-              "Material: Cotton",
-              "Machine-wash",
-              "Product Code: 12682136"
-            ]
-          },
-          {
-            "id": 15,
-            "brand": "Nayo",
-            "description": "Women Teal Printed Maxi Dress",
-            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/22/ddb4a2d3-72df-483c-87c7-ea5311d7c2da1619080421687-1.jpg",
-            "carousalimages": [
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/22/ddb4a2d3-72df-483c-87c7-ea5311d7c2da1619080421687-1.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/22/64118ba1-9b14-4cca-a6eb-09c2972fb0ea1619080421725-3.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/22/661bcee9-f3af-4029-868e-e90ce0ade0eb1619080421762-5.jpg"
-            ],
-            "price": "1999/-",
-            "features": [ 
-              "Teal printed maxi dress",
-              "Has a mandarin collar", 
-              "Hook and eye closure", 
-              "Flared hem",
-              "Material: Viscose Rayon",
-              "Hand wash",
-              "Product Code: 14171296"
-            ]
-          },
-          {
-            "id": 16,
-            "brand": "U&F",
-            "description": "Women Navy Blue Solid Fit and Flare Dress",
-            "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/21/d08a474c-6631-4cc2-af75-276b8d18f3e21611231055095-1.jpg",
-            "carousalimages": [
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/21/d08a474c-6631-4cc2-af75-276b8d18f3e21611231055095-1.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/21/64acc2ea-e02d-4819-9613-474ba710b0e81611231055154-4.jpg",
-              "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/21/e23cc95e-31ca-4c56-a3dc-e2511d3ae3821611231055174-5.jpg"
-            ],
-            "price": "1899/-",
-            "features": [ 
-              "Navy Blue solid fit and flare dress", 
-              "Has a round neck",
-              "Flared hem",
-              "Material: Polyester",
-              "Three-quarter sleeves",
-              "Product Code: 13501432"
-            ]
-          }
-          
-    ]
-
+  "men": [
+    {
+      "id": 1,
+      "brand": "Levis",
+      "description": "Men Burgundy & Mustard Yellow Slim Fit Checked Casual Shirt",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13358594/2021/1/28/933977c9-0303-4c41-b0e2-f7dd19bf720a1611827180991-Levis-Men-Shirts-8471611827178183-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13358594/2021/1/28/933977c9-0303-4c41-b0e2-f7dd19bf720a1611827180991-Levis-Men-Shirts-8471611827178183-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13358594/2021/1/28/af46a5e4-f2f7-45ac-90cc-124bff53acb01611827180913-Levis-Men-Shirts-8471611827178183-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13358594/2021/1/28/c7318c4f-2add-4de5-9797-6d9b10b4ee641611827180899-Levis-Men-Shirts-8471611827178183-6.jpg"
+      ],
+      "price": "1679",
+      "features": [
+        "Spread collar",
+        "Long sleeves",
+        "1 Patch pocket",
+        "Slim fit",
+        "100% Cotton",
+        "Machine Wash",
+        "Product Code: 13358594"
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "WROGN",
+      "description": "Men Burgundy & Black Slim Fit Checked Casual Shirt",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10410142/2019/10/21/935c4612-9355-49ee-9928-a1f4803243ca1571662078278-WROGN-Men-Burgundy--Black-Slim-Fit-Checked-Casual-Shirt-8015-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10410142/2019/10/21/935c4612-9355-49ee-9928-a1f4803243ca1571662078278-WROGN-Men-Burgundy--Black-Slim-Fit-Checked-Casual-Shirt-8015-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10410142/2019/10/21/6a8c7d8f-fa04-4cb3-943d-fbba9dae1ea71571662078128-WROGN-Men-Burgundy--Black-Slim-Fit-Checked-Casual-Shirt-8015-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10410142/2019/10/21/78c9823f-e2f8-4126-8b4d-044338a5a5871571662078167-WROGN-Men-Burgundy--Black-Slim-Fit-Checked-Casual-Shirt-8015-4.jpg"
+      ],
+      "price": "1319",
+      "features": [
+        "Spread collar",
+        "Long sleeves",
+        "1 Patch pocket",
+        "Slim fit",
+        "100% Cotton",
+        "Machine Wash",
+        "Product Code: 10410142"
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "Campus Sutra",
+      "description": "Men Navy Blue & Grey Standard Fit Colourblocked Casual Shirt",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10456354/2019/8/22/d56e75f6-f1a7-4fdd-b430-51befb36f88d1566454760527-Campus-Sutra-Men-Colourblocked-Casual-Spread-Shirt-290156645-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10456354/2019/8/22/d56e75f6-f1a7-4fdd-b430-51befb36f88d1566454760527-Campus-Sutra-Men-Colourblocked-Casual-Spread-Shirt-290156645-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10456354/2019/8/22/a05d2136-184e-4456-8db5-3142fd1bc13c1566454760466-Campus-Sutra-Men-Colourblocked-Casual-Spread-Shirt-290156645-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10456354/2019/8/22/a6482112-9af7-4934-9e65-6443f0df4b8c1566454760508-Campus-Sutra-Men-Colourblocked-Casual-Spread-Shirt-290156645-2.jpg"
+      ],
+      "price": "1499",
+      "features": [
+        "Navy blue and grey colourblocked casual shirt",
+        "Has a spread collar",
+        "Long sleeves",
+        "Button placket",
+        "Curved hem",
+        "Material:cotton",
+        "Machine Wash",
+        "Product Code:  10456354"
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "WROGN",
+      "description": "Men Navy Blue Pure Cotton Slim Fit Casual Shirt",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14455312/2021/6/23/90834114-84b2-4c62-8031-c575b1479d2d1624433820509-WROGN-Men-Shirts-2911624433819891-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14455312/2021/6/23/90834114-84b2-4c62-8031-c575b1479d2d1624433820509-WROGN-Men-Shirts-2911624433819891-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14455312/2021/6/23/f42dca3f-6f54-4dcb-9cf3-8b8d0198e39e1624433820435-WROGN-Men-Shirts-2911624433819891-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14455312/2021/6/23/c462d923-0131-46dc-bbd6-8ea2e73ac2cf1624433820454-WROGN-Men-Shirts-2911624433819891-4.jpg"
+      ],
+      "price": "2399",
+      "features": [
+        "Navy blue solid opaque Casual shirt",
+        "Has a spread collar",
+        "Button placket",
+        "1 patch pocket",
+        "Long regular sleeves",
+        "Curved hem",
+        "Material : Cotton ",
+        "Machine wash",
+        "Product Code: 14455312"
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "SOJANYA",
+      "description": "Men Taupe & Beige Classic Tartan Checks Checked Formal Shirt",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14089322/2021/6/19/f28bb845-935d-4d53-8dd7-7b8aac8cf4ac1624088743069SojanyaSince1958MensCottonBrownTaupeCheckedFormalShirt1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14089322/2021/6/19/f28bb845-935d-4d53-8dd7-7b8aac8cf4ac1624088743069SojanyaSince1958MensCottonBrownTaupeCheckedFormalShirt1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14089322/2021/6/19/d9a69ca9-31f1-4399-bae7-038aee99fcc51624088743700SojanyaSince1958MensCottonBrownTaupeCheckedFormalShirt5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14089322/2021/6/19/29e747e0-dc23-4af4-9a33-c530a72f66fb1624088743384SojanyaSince1958MensCottonBrownTaupeCheckedFormalShirt3.jpg"
+      ],
+      "price": "2599",
+      "features": [
+        "Taupe and beige tartan checks checked opaque Formal shirt",
+        "Has a spread collar",
+        "Button placket",
+        "Long regular sleeves",
+        "Curved hem",
+        "Material: Cotton",
+        "Machine wash",
+        "Product Code: 14089322"
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "Campus Sutra",
+      "description": "Men Mustard Yellow Printed Hooded Pullover Sweatshirt",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/11/15/b99b1e2b-4415-49fc-a83d-746493b3e6811573794399620-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/11/15/b99b1e2b-4415-49fc-a83d-746493b3e6811573794399620-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/11/15/5dbb1639-46c6-4085-a200-0e09be7a86651573794399784-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/11/15/cfb952aa-0d55-4fc8-8e77-d2a10e04a72f1573794399739-3.jpg"
+      ],
+      "price": "1698",
+      "features": [
+        "Mustard yellow printed pullover sweatshirt",
+        "Has a hood",
+        "Two pockets",
+        "Long sleeves",
+        "Straight hem",
+        "Material : Cotton",
+        "Machine Wash",
+        "Product Code: 10992032"
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "Mast & Harbour",
+      "description": "Men Charcoal Grey Solid Pullover",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4451272/2018/8/29/55219023-1d31-4c5f-8f27-1ecffbfe5ad21535537481065-Mast--Harbour-Men-Sweaters-561535537480903-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4451272/2018/8/29/55219023-1d31-4c5f-8f27-1ecffbfe5ad21535537481065-Mast--Harbour-Men-Sweaters-561535537480903-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4451272/2018/8/29/4ce9c868-1783-4f3b-8af2-7a311b95262d1535537481013-Mast--Harbour-Men-Sweaters-561535537480903-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4451272/2018/8/29/e543eb95-916d-4cbb-b660-2b8dd3eba76c1535537481029-Mast--Harbour-Men-Sweaters-561535537480903-3.jpg"
+      ],
+      "price": "1599",
+      "features": [
+        "Charcoal grey solid pullover",
+        "Has a round neck",
+        "Long sleeves with elbow patches",
+        "Ribbed hem",
+        "Material : Acrylic",
+        "Machine-wash",
+        "Product Code: 4451272"
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "Roadster",
+      "description": "Men Beige Solid Bomber Jacket",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11969518/2020/11/2/fe1fc49b-5d6d-40ce-8a0e-8046e60d9ed31604293063935-Roadster-Men-Jackets-3811604293062166-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11969518/2020/11/2/fe1fc49b-5d6d-40ce-8a0e-8046e60d9ed31604293063935-Roadster-Men-Jackets-3811604293062166-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11969518/2020/11/2/4a9a5270-c1cd-490a-9b91-52bce151b92a1604293063792-Roadster-Men-Jackets-3811604293062166-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11969518/2020/11/2/a36ea255-f6fd-474a-b7c3-658282508dbd1604293063893-Roadster-Men-Jackets-3811604293062166-2.jpg"
+      ],
+      "price": "3499",
+      "features": [
+        "Beige solid bomber jacket",
+        "Has a mock collar",
+        "5 pockets",
+        "Zip closure",
+        "Long sleeves",
+        "Straight hem",
+        "Polyester lining",
+        "Material: 100% Cotton",
+        "Lining: 100% polyester",
+        "Machine Wash",
+        "Product Code: 11969518"
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "HIGHLANDER",
+      "description": "Men Blue Solid Denim Jacket",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/25/376cd722-636e-48a2-94b1-5201248ab2441611559411629-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/25/376cd722-636e-48a2-94b1-5201248ab2441611559411629-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/25/07a3f61c-2201-4b32-947a-bf7b7ec7e1371611559411714-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/25/4b955e8f-f786-40cb-b159-704dcafcd9701611559411671-3.jpg"
+      ],
+      "price": "2199",
+      "features": [
+        "Blue solid jacket",
+        "Has a stand collar",
+        "2 pockets",
+        "Snap button closure",
+        "Long sleeves",
+        "Straight hem",
+        "Unlined lining",
+        "Material: Cotton",
+        "Machine Wash",
+        "Product Code: 13520604"
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "HRX by Hrithik Roshan",
+      "description": "Men Black Printed Rapid-Dry Antimicrobial Outdoor Sporty Jacket",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11846140/2020/11/30/ab080ec9-3cd5-4f9d-9c54-9177df89cace1606738425279-HRX-by-Hrithik-Roshan-Men-Black-Solid-Sporty-Jacket-14916067-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11846140/2020/11/30/ab080ec9-3cd5-4f9d-9c54-9177df89cace1606738425279-HRX-by-Hrithik-Roshan-Men-Black-Solid-Sporty-Jacket-14916067-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11846140/2020/11/30/138c94a2-5b8a-420f-ae00-3418f4192e531606738425146-HRX-by-Hrithik-Roshan-Men-Black-Solid-Sporty-Jacket-14916067-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11846140/2020/11/30/bbde41d2-511b-486d-88ae-0b8cdbf1de031606738425237-HRX-by-Hrithik-Roshan-Men-Black-Solid-Sporty-Jacket-14916067-2.jpg"
+      ],
+      "price": "4999",
+      "features": [
+        "Sporty reliable and durable",
+        "The HRX Men's Outdoor Jacket is ideal for your next hike",
+        "The hooded design keeps you protected from wind and rain",
+        "Shell: 100% polyester",
+        "Lining: 100% polyester",
+        "Knit Jacket",
+        "Machine Wash",
+        "Product Code: 11846140"
+      ]
+    },
+    {
+      "id": 11,
+      "brand": "Hangup",
+      "description": "Men Brown & Beige Printed Bandhgala Blazer",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/3/8/453239eb-7ba3-43b1-a51d-768d485c7a211615208677181-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/3/8/453239eb-7ba3-43b1-a51d-768d485c7a211615208677181-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/3/8/fd8c27c1-75bd-424b-8e59-646334bbda391615208677274-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/3/8/bdbcaaea-8945-4ea8-ba01-c9237d56ef341615208677225-3.jpg"
+      ],
+      "price": "5999",
+      "features": [
+        "Brown and beige printed regular-fit Bandhgala blazer",
+        "Has a mandarin collar",
+        "Long sleeves",
+        "one welt pocket",
+        "Two flap pockets",
+        "Button closure and double vented back hem",
+        "40% Polyester and 60% viscose",
+        "Dry clean only",
+        "Product Code: 13828040"
+      ]
+    },
+    {
+      "id": 12,
+      "brand": "Mast & Harbour",
+      "description": "Navy Blue Regular Fit Single-Breasted Knitted Blazer",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8397945/2019/3/8/3a7ac3f6-87cf-4cbc-9890-c43ba1e818291552030244400-Mast--Harbour-Navy-Blue-Regular-Fit-Single-Breasted-Casual-B-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8397945/2019/3/8/3a7ac3f6-87cf-4cbc-9890-c43ba1e818291552030244400-Mast--Harbour-Navy-Blue-Regular-Fit-Single-Breasted-Casual-B-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8397945/2019/3/8/618cc1ce-3b3f-4d3d-b129-7a00ff9f8c301552030244331-Mast--Harbour-Navy-Blue-Regular-Fit-Single-Breasted-Casual-B-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8397945/2019/3/8/fa4ea96d-204e-42bd-ad73-1513f9befdf51552030244346-Mast--Harbour-Navy-Blue-Regular-Fit-Single-Breasted-Casual-B-4.jpg"
+      ],
+      "price": "5499",
+      "features": [
+        "Navy blue woven casual blazer",
+        "Has a notched lapel",
+        "Single-breasted with double button closures",
+        "Long sleeves",
+        "Three pockets",
+        "Two in-built pockets",
+        "A double vented back hem",
+        "Material : Shell : 75% polyester, 20% rayon, 5% elastane",
+        "Lining : 100% polyester",
+        "Dry-clean",
+        "Product Code: 8397945"
+      ]
+    },
+    {
+      "id": 13,
+      "brand": "Louis Philippe",
+      "description": "Men Navy Blue & Beige Slim Fit Checked Single Breasted Smart Casual Blazer",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11549846/2020/2/28/83579ead-c0f4-4cb9-8f79-a80a645bb83b1582869445976-Louis-Philippe-Men-Blazers-7451582869443833-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11549846/2020/2/28/83579ead-c0f4-4cb9-8f79-a80a645bb83b1582869445976-Louis-Philippe-Men-Blazers-7451582869443833-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11549846/2020/2/28/4714e407-44bf-462e-aab1-e69bf4bc0c0d1582869445856-Louis-Philippe-Men-Blazers-7451582869443833-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11549846/2020/2/28/c777dfe8-2326-4006-a79b-d6b21d77e1ff1582869445934-Louis-Philippe-Men-Blazers-7451582869443833-2.jpg"
+      ],
+      "price": "6999",
+      "features": [
+        "Navy Blue & Beige checked smart casual blazer",
+        "Has a notched lapel",
+        "Single breasted with button closures",
+        "long sleeves",
+        "2 flap mock pockets and 1 welt pocket",
+        "Double vented hem",
+        "An attached lining with two in-built pockets",
+        "Material - Shell: 60% Polyester, 20% Viscose, 20% Wool, Lining: 100% Polyester",
+        "Dry-Clean",
+        "Product Code: 11549846"
+      ]
+    },
+    {
+      "id": 14,
+      "brand": "Blackberrys",
+      "description": "Men Burgundy Solid Single-Breasted Slim Fit Formal Suit",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14237968/2021/5/24/f7fe8d39-e6bc-40c4-bb56-b52ac5c270da1621864360451-Blackberrys-Men-Suits-4011621864359554-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14237968/2021/5/24/f7fe8d39-e6bc-40c4-bb56-b52ac5c270da1621864360451-Blackberrys-Men-Suits-4011621864359554-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14237968/2021/5/24/46be738e-5f9c-4425-a999-72ee165fd6e01621864360369-Blackberrys-Men-Suits-4011621864359554-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14237968/2021/5/24/a5e5c852-27eb-4e74-8774-dabda6ac21e31621864360433-Blackberrys-Men-Suits-4011621864359554-2.jpg"
+      ],
+      "price": "8999",
+      "features": [
+        "Burgundy solid formal suit",
+        "Has a peaked lapel collar",
+        "long sleeves",
+        "3 pockets",
+        "single-breasted with button closure",
+        "Burgundy solid formal trousers, has a button and zip closure",
+        "Two pockets",
+        "Comes with a lapel pin",
+        "Material:78% terylene, 22% rayon",
+        "Dry-clean",
+        "Product Code: 14237968"
+      ]
+    },
+    {
+      "id": 15,
+      "brand": "VASTRAMAY",
+      "description": "Men Cream-Colored & Maroon Floral Printed Slim-Fit Sherwani",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/3/24/ec876eee-4186-4c7e-b23a-4d8b67541de61616578723582-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/3/24/ec876eee-4186-4c7e-b23a-4d8b67541de61616578723582-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/3/24/d4415ee7-5e5c-4247-99f0-aff5213e7f561616578723690-6.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/3/24/8c30c9fb-f89e-40a9-9e9e-a433b5a24fe91616578723603-2.jpg"
+      ],
+      "price": "4499",
+      "features": [
+        "Cream-colored, maroon and yellow floral printed sherwani",
+        "Has a mandarin collar",
+        "Long sleeves",
+        "Full button placket on the front",
+        "One chest welt pocket and multiple slits",
+        "Maroon solid dhoti",
+        "Has a elasticated waistband with drawstring closure",
+        "Material : Silk blend",
+        "Dry-clean preferably or cold light wash",
+        "Product Code:  13950814"
+      ]
+    },
+    {
+      "id": 16,
+      "brand": "DEYANN",
+      "description": "Men White Printed Nehru Jacket",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/1/11/8ece5829-d5db-4d38-b073-96d57a83279b1547185925393-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/1/11/8ece5829-d5db-4d38-b073-96d57a83279b1547185925393-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/1/11/1c96f915-13de-4f43-99e2-038befd3949b1547185925490-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/1/11/fb729240-1a7e-43b3-b89b-4f7b5cf4db4d1547185925516-5.jpg"
+      ],
+      "price": "1599",
+      "features": [
+        "White printed nehru jacket",
+        "Has a mandarin collar",
+        "A full button placket",
+        "Sleeveless",
+        "Three welt pockets",
+        "Material :  60% Cotton, 40% Linen",
+        "Dry Clean Only",
+        "Product Code: 8473593"
+      ]
+    }
+  ],
+  "women": [
+    {
+      "id": 1,
+      "brand": "Miss Chase",
+      "description": "Women Black Solid Fit and Flare Dress",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/11/23/b7a2fc6c-cb82-4bf5-8c93-4ecae6ac8c161542966081867-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/11/23/6211c7bf-f36c-4972-8f3c-cd56d12792b11542966081956-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/11/23/1b5553cd-9011-43d5-80c2-418f8052b59a1542966081918-3.jpg"
+      ],
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/11/23/b7a2fc6c-cb82-4bf5-8c93-4ecae6ac8c161542966081867-1.jpg",
+      "price": "1499",
+      "features": [
+        "Black solid woven fit and flare dress",
+        "Boat neck",
+        "Short sleeves",
+        "Concealed zip closure",
+        "Flared hem",
+        "Polyester",
+        "Hand Wash",
+        "Product Code: 7867845"
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "Athena",
+      "description": "Women Burgundy Lace Maxi Dress",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7409159/2018/9/21/1097e02c-6780-47e5-93b5-db2aff05e2d41537516149860-Athena-Women-Burgundy-Self-Design-Maxi-Dress-9671537516149722-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7409159/2018/9/21/1097e02c-6780-47e5-93b5-db2aff05e2d41537516149860-Athena-Women-Burgundy-Self-Design-Maxi-Dress-9671537516149722-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7409159/2018/9/21/d92176af-bdc1-4316-b671-f9dc041e7e051537516149888-Athena-Women-Burgundy-Self-Design-Maxi-Dress-9671537516149722-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7409159/2018/9/21/13876eec-df15-4673-8189-52f1ee5773551537516149805-Athena-Women-Burgundy-Self-Design-Maxi-Dress-9671537516149722-4.jpg"
+      ],
+      "price": "1399",
+      "features": [
+        "Self-design woven lace maxi dress",
+        "Round Neck",
+        "Three-quarter sleeves",
+        "Button and concealed zip closure",
+        "Polyester",
+        "Machine Wash",
+        "Product Code: 7409159"
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "SASSAFRAS",
+      "description": "Women Maroon Solid Basic Jumpsuit",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308583/2019/7/29/8c2cb068-5deb-42bc-879d-194cfb7838801564395449672-SASSAFRAS-Women-Jumpsuit-1481564395448748-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308583/2019/7/29/8c2cb068-5deb-42bc-879d-194cfb7838801564395449672-SASSAFRAS-Women-Jumpsuit-1481564395448748-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308583/2019/7/29/c0fd65c9-b63d-4057-a1dd-d953eb38cd681564395449653-SASSAFRAS-Women-Jumpsuit-1481564395448748-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308583/2019/7/29/b4cfeff3-f787-4be3-97cc-d2b50cef25ad1564395449595-SASSAFRAS-Women-Jumpsuit-1481564395448748-5.jpg"
+      ],
+      "price": "1499",
+      "features": [
+        "Maroon solid basic jumpsuit with waist tie-ups",
+        "Has a round neck",
+        "Three-quarter sleeves",
+        "Hook and eye with concealed zip closure",
+        "Two pockets",
+        "Product Code: 10308583"
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "QUIERO",
+      "description": "Women Black & Brown Printed Basic Jumpsuit",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13435068/2021/2/1/f1e3ef99-5c9b-437d-ba71-88ebc17e46451612160900285MalachiWomensBlueHighWaistJeansTopsQUIEROWomenTopsQUIEROWome1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13435068/2021/2/1/f1e3ef99-5c9b-437d-ba71-88ebc17e46451612160900285MalachiWomensBlueHighWaistJeansTopsQUIEROWomenTopsQUIEROWome1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13435068/2021/2/1/5259e23f-32b5-4634-8029-b33b7d9941fe1612160900324MalachiWomensBlueHighWaistJeansTopsQUIEROWomenTopsQUIEROWome2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13435068/2021/2/1/908282a9-089a-44fe-bcd1-85965c23a7a01612160900439MalachiWomensBlueHighWaistJeansTopsQUIEROWomenTopsQUIEROWome4.jpg"
+      ],
+      "price": "1979",
+      "features": [
+        "Basic Jumpsuit",
+        "Sleeveless",
+        "Material: Polyester",
+        "Machine Wash",
+        "Round Neck",
+        "Product Code: 13435068"
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "SASSAFRAS",
+      "description": "Sea Wash Peterpan Collar Pleated Dress",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308617/2019/7/29/bd8f2ff9-186b-4983-b9b6-88654f2d13661564380201384-SASSAFRAS-Women-Blue-A-Line-Dress-9861564380199640-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308617/2019/7/29/bd8f2ff9-186b-4983-b9b6-88654f2d13661564380201384-SASSAFRAS-Women-Blue-A-Line-Dress-9861564380199640-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308617/2019/7/29/79b44638-5cca-44b1-b858-91cf369310e11564380201363-SASSAFRAS-Women-Blue-A-Line-Dress-9861564380199640-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10308617/2019/7/29/11dd969e-e446-4d94-b654-e62aeff9fa961564380201283-SASSAFRAS-Women-Blue-A-Line-Dress-9861564380199640-5.jpg"
+      ],
+      "price": "1999",
+      "features": [
+        "Fit n flared, flowy silhouette",
+        "Peter-pan collar",
+        "front button closure",
+        "Three-quarter sleeves",
+        "Slim fit",
+        "Material: Poly-georgette",
+        "Dry Clean.",
+        "Product Code: 10308617"
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "Juniper",
+      "description": "Women Maroon & Golden Printed Maxi Dress",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10530424/2019/9/9/3ea53bf0-085e-4ca9-8f3c-0dbbe951aad31568013206327-Juniper-Maroon-Rayon-Printed-Asymmetric-Dress-with-Belt-1371-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10530424/2019/9/9/3ea53bf0-085e-4ca9-8f3c-0dbbe951aad31568013206327-Juniper-Maroon-Rayon-Printed-Asymmetric-Dress-with-Belt-1371-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10530424/2019/9/9/db765a04-3584-4503-8bdc-b80ba38350a31568013206268-Juniper-Maroon-Rayon-Printed-Asymmetric-Dress-with-Belt-1371-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10530424/2019/9/9/6760748a-0dc5-4dc4-92b5-81de094d676c1568013206240-Juniper-Maroon-Rayon-Printed-Asymmetric-Dress-with-Belt-1371-4.jpg"
+      ],
+      "price": "2098",
+      "features": [
+        "Maroon and Golden printed woven maxi dress",
+        "Three-quarter sleeves",
+        "Two pockets and asymmetric hem Comes with a belt",
+        "100% Cotton",
+        "Machine Wash",
+        "Product Code: 10530424"
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "SASSAFRAS",
+      "description": "Women Green & Beige Floral Printed Blouson Top",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364258/2020/1/31/899b523a-f57a-48fb-80cd-8422614f195d1580451588210-SASSAFRAS-Women-Green--Beige-Printed-Blouson-Top-49515804515-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364258/2020/1/31/899b523a-f57a-48fb-80cd-8422614f195d1580451588210-SASSAFRAS-Women-Green--Beige-Printed-Blouson-Top-49515804515-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364258/2020/1/31/aaa71235-2b2f-4197-afc4-58976dd8e8301580451588140-SASSAFRAS-Women-Green--Beige-Printed-Blouson-Top-49515804515-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11364258/2020/1/31/f9fe1a54-341d-4bb2-aa53-db1b2e05ef261580451588104-SASSAFRAS-Women-Green--Beige-Printed-Blouson-Top-49515804515-4.jpg"
+      ],
+      "price": "1499",
+      "features": [
+        "Green and Beige printed woven blouson top",
+        "Has a round neck",
+        "Three-quarter sleeves",
+        "Material: Poly Georgette",
+        "Machine Wash",
+        "Product Code: 11364258"
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "Miss Chase",
+      "description": "Women Black Striped Maxi Top",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9722997/2019/5/17/9f5820ed-6ecb-4114-928b-c5052de2b6d11558086747716-Miss-Chase-Women-Black-Striped-Maxi-Top-7701558086746830-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9722997/2019/5/17/9f5820ed-6ecb-4114-928b-c5052de2b6d11558086747716-Miss-Chase-Women-Black-Striped-Maxi-Top-7701558086746830-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9722997/2019/5/17/66f93145-0c5f-4369-a5e6-1cf3805f393e1558086747667-Miss-Chase-Women-Black-Striped-Maxi-Top-7701558086746830-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9722997/2019/5/17/ea20cc92-2546-4276-a4e2-3c5f91c6256b1558086747630-Miss-Chase-Women-Black-Striped-Maxi-Top-7701558086746830-4.jpg"
+      ],
+      "price": "1849",
+      "features": [
+        "Black and white striped woven maxi top",
+        "Has a tie-up neck",
+        "Three-quarter sleeves",
+        "Material: Polyester",
+        "Machine-wash",
+        "Product Code: 9722997"
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "La Zoire",
+      "description": "Women Red & White Striped A-Line Top",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8841591/2019/3/5/e92e95ab-68ed-4c6b-8d3e-146d777f9bbf1551780857345-La-Zoire-Stripe-Shifly-Top-831551780856037-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8841591/2019/3/5/e92e95ab-68ed-4c6b-8d3e-146d777f9bbf1551780857345-La-Zoire-Stripe-Shifly-Top-831551780856037-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8841591/2019/3/5/d49b7523-6eb7-4bed-837c-f5cfecf0d2ce1551780857306-La-Zoire-Stripe-Shifly-Top-831551780856037-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8841591/2019/3/5/097f584a-90de-4073-8c8b-c1e9ce38e8961551780857216-La-Zoire-Stripe-Shifly-Top-831551780856037-5.jpg"
+      ],
+      "price": "1599",
+      "features": [
+        "Red and white striped woven A-line top with schiffli embroidered",
+        "Has a round neck",
+        "Three-quarter sleeves",
+        "Material: Viscose Rayon",
+        "Hand-wash",
+        "Product Code: 8841591"
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "Ishin",
+      "description": "Women Pink & White Bandhani Print Kurta with Skirt",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11250734/2020/1/29/66e06bc0-39c6-408f-9bf6-9919c28b198f1580281672273-Ishin-Womens-Cotton-Gota-Patti-Embellished-A-Line-Kurta-Skir-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11250734/2020/1/29/66e06bc0-39c6-408f-9bf6-9919c28b198f1580281672273-Ishin-Womens-Cotton-Gota-Patti-Embellished-A-Line-Kurta-Skir-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11250734/2020/1/29/d1b69e96-804f-4381-9f35-21e6c2fe277c1580281672092-Ishin-Womens-Cotton-Gota-Patti-Embellished-A-Line-Kurta-Skir-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11250734/2020/1/29/91033f9d-6554-4d2f-a1d3-4b0dba25aac31580281672137-Ishin-Womens-Cotton-Gota-Patti-Embellished-A-Line-Kurta-Skir-4.jpg"
+      ],
+      "price": "4999",
+      "features": [
+        "Pink and white bandhani print kurta with skirt",
+        "Top fabric: Pure Cotton",
+        "Bottom fabric: Pure Cotton",
+        "Dry-clean",
+        "three-quarter sleeves",
+        "Product Code: 11250734"
+      ]
+    },
+    {
+      "id": 11,
+      "brand": "Libas",
+      "description": "Women Olive Brown & Golden Printed Kurti with Dhoti Pants & Ethnic Jacket",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9720497/2019/6/1/7d7dd721-6351-4c0a-abf9-014b93def3111559362134259-Libas-Women-Olive-Brown--Golden-Printed-Kurti-with-Dhoti-Pan-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9720497/2019/6/1/7d7dd721-6351-4c0a-abf9-014b93def3111559362134259-Libas-Women-Olive-Brown--Golden-Printed-Kurti-with-Dhoti-Pan-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9720497/2019/6/1/afe936b6-5f99-4cae-9314-6cfe022976b71559362134202-Libas-Women-Olive-Brown--Golden-Printed-Kurti-with-Dhoti-Pan-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9720497/2019/6/1/e9e23343-9e2a-43b4-b834-488ceea522401559362134167-Libas-Women-Olive-Brown--Golden-Printed-Kurti-with-Dhoti-Pan-6.jpg"
+      ],
+      "price": "2599",
+      "features": [
+        "Set consists of kurti, dhoti pants and ethnic jacket",
+        "Three-quarter sleeves",
+        "Hook and eye closure",
+        "Top fabric: Viscose Rayon",
+        "Bottom fabric: Viscose Rayon",
+        "Machine-wash",
+        "Product Code: 9720497"
+      ]
+    },
+    {
+      "id": 12,
+      "brand": "ZIYAA",
+      "description": "Women Pink & Charcoal Grey Foil Print Kurta with Palazzos",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12948526/2020/12/5/7b75e2da-fe4c-48eb-80dd-77b7ff5b9c3d1607143510214-ZIYAA-Women-Pink--Charcoal-Grey-Foil-Print-Kurta-with-Palazz-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12948526/2020/12/5/7b75e2da-fe4c-48eb-80dd-77b7ff5b9c3d1607143510214-ZIYAA-Women-Pink--Charcoal-Grey-Foil-Print-Kurta-with-Palazz-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12948526/2020/12/5/6a3c7054-6b48-47c4-b502-8bd9e867a1181607143510033-ZIYAA-Women-Pink--Charcoal-Grey-Foil-Print-Kurta-with-Palazz-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12948526/2020/12/5/f931754a-d306-4103-b039-cce86e8e5bd71607143509970-ZIYAA-Women-Pink--Charcoal-Grey-Foil-Print-Kurta-with-Palazz-5.jpg"
+      ],
+      "price": "3877",
+      "features": [
+        "Pink and charcoal grey printed kurta with palazzos",
+        "Has a keyhole neck",
+        "Three-quarter sleeves",
+        "Slip-on closure",
+        "Top fabric: Silk Blend",
+        "Bottom fabric: Silk Blend",
+        "Dry-clean",
+        "Product Code: 12948526"
+      ]
+    },
+    {
+      "id": 13,
+      "brand": "Divena",
+      "description": "Women Peach-Coloured Gotta Patti Printed Cotton Anarkali With Long Ethnic Jacket",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11919308/2020/6/24/5c3f7811-0c88-4959-b2ac-34a11aed3c9d1592978431386EmbroideredStraightKurtaKurtasDivenaWomenKurtasDivenaWomenKu1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11919308/2020/6/24/5c3f7811-0c88-4959-b2ac-34a11aed3c9d1592978431386EmbroideredStraightKurtaKurtasDivenaWomenKurtasDivenaWomenKu1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11919308/2020/6/24/fef88fbb-741e-425f-8252-6d7bae26a5871592978431628EmbroideredStraightKurtaKurtasDivenaWomenKurtasDivenaWomenKu4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11919308/2020/6/24/1965cce2-3941-4a6d-846b-43de0da077d51592978431781EmbroideredStraightKurtaKurtasDivenaWomenKurtasDivenaWomenKu6.jpg"
+      ],
+      "price": "5999",
+      "features": [
+        "peach-coloured anarkali.",
+        "Featuring round neck",
+        "Flared hem, gotta patti",
+        "Three-quarter sleeves",
+        "Material: Cotton",
+        "Machine-wash",
+        "Product Code: 11919308"
+      ]
+    },
+    {
+      "id": 14,
+      "brand": "Tokyo Talkies",
+      "description": "Women Off-White & Grey Striped Double-Breasted Casual Pure Cotton Blazer",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/10/7/09fe7f48-fe69-4e9c-9bb0-7b2da524fef31602026160273-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/10/7/09fe7f48-fe69-4e9c-9bb0-7b2da524fef31602026160273-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/10/7/11686485-aab6-446c-8fa6-92eb6e7c86111602026160413-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/10/7/e7dbede2-154d-4476-be4d-24c4431ed93d1602026160459-5.jpg"
+      ],
+      "price": "1999",
+      "features": [
+        "Off-white and grey striped regular-fit casual blazer",
+        "Double-breasted with button closures",
+        "long sleeves",
+        "Two flapped pockets",
+        "Material: Cotton",
+        "Machine-wash",
+        "Product Code: 12682136"
+      ]
+    },
+    {
+      "id": 15,
+      "brand": "Nayo",
+      "description": "Women Teal Printed Maxi Dress",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/22/ddb4a2d3-72df-483c-87c7-ea5311d7c2da1619080421687-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/22/ddb4a2d3-72df-483c-87c7-ea5311d7c2da1619080421687-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/22/64118ba1-9b14-4cca-a6eb-09c2972fb0ea1619080421725-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/22/661bcee9-f3af-4029-868e-e90ce0ade0eb1619080421762-5.jpg"
+      ],
+      "price": "1999",
+      "features": [
+        "Teal printed maxi dress",
+        "Has a mandarin collar",
+        "Hook and eye closure",
+        "Flared hem",
+        "Material: Viscose Rayon",
+        "Hand wash",
+        "Product Code: 14171296"
+      ]
+    },
+    {
+      "id": 16,
+      "brand": "U&F",
+      "description": "Women Navy Blue Solid Fit and Flare Dress",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/21/d08a474c-6631-4cc2-af75-276b8d18f3e21611231055095-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/21/d08a474c-6631-4cc2-af75-276b8d18f3e21611231055095-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/21/64acc2ea-e02d-4819-9613-474ba710b0e81611231055154-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/1/21/e23cc95e-31ca-4c56-a3dc-e2511d3ae3821611231055174-5.jpg"
+      ],
+      "price": "1899",
+      "features": [
+        "Navy Blue solid fit and flare dress",
+        "Has a round neck",
+        "Flared hem",
+        "Material: Polyester",
+        "Three-quarter sleeves",
+        "Product Code: 13501432"
+      ]
+    }
+  ],
+  "kids": [
+    {
+      "id": 1,
+      "brand": "Moms Love",
+      "description": "Boys White & Yellow Pure Cotton Printed T-shirt with Dungarees",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13870346/2021/5/25/213bd439-20f1-4ab9-9a5d-53d5b47d1b1a1621944750494mothercareBoysWhiteGreyCottonPrintedRoundNeckT-shirtDungaree1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13870346/2021/5/25/213bd439-20f1-4ab9-9a5d-53d5b47d1b1a1621944750494mothercareBoysWhiteGreyCottonPrintedRoundNeckT-shirtDungaree1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13870346/2021/5/25/82cb4c58-fcfb-462c-9556-06d17adfac1c1621944750531mothercareBoysWhiteGreyCottonPrintedRoundNeckT-shirtDungaree2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13870346/2021/5/25/37459d39-e329-4647-9392-caca963f45f61621944750604mothercareBoysWhiteGreyCottonPrintedRoundNeckT-shirtDungaree4.jpg"
+      ],
+      "price": "599",
+      "features": [
+        "Set consists of t-shirt and dungarees",
+        "White and grey lion face print t-shirt",
+        "Has a round neck",
+        "Short sleeves",
+        "Top fabric: Pure Cotton",
+        "Bottom fabric: Pure Cotton",
+        "Machine-wash",
+        "Product Code: 13870346"
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "YK",
+      "description": "Boys Navy Blue Striped Pure Cotton T-shirt with Striped Detail Pyjamas",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13186494/2021/2/16/a772d9c0-b436-437f-8db0-95d736152fcc1613455343478-YK-Boys-Clothing-Set-2531613455341938-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13186494/2021/2/16/a772d9c0-b436-437f-8db0-95d736152fcc1613455343478-YK-Boys-Clothing-Set-2531613455341938-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13186494/2021/2/16/6f8ac340-07a8-4218-812e-bbee33f9acff1613455343461-YK-Boys-Clothing-Set-2531613455341938-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13186494/2021/2/16/2f7d451d-59ed-4acb-8976-6656280985f51613455343351-YK-Boys-Clothing-Set-2531613455341938-11.jpg"
+      ],
+      "price": "1699",
+      "features": [
+        "Navy Blue solid mid-rise knitted pyjamas with stripes",
+        "Has a round neck",
+        "Top fabric: Pure Cotton",
+        "Bottom fabric: Pure Cotton",
+        "Machine-wash",
+        "Short sleeves",
+        "Product Code: 13186494"
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "DEYANN",
+      "description": "Boys Off-White & Mustard Yellow Printed Kurta with Patiala",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/2/2/bb7ac1b3-b52b-4758-92c8-e1a1af13431c1612261763775-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/2/2/bb7ac1b3-b52b-4758-92c8-e1a1af13431c1612261763775-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/2/2/deebc979-eb62-44c9-b6c6-87af41c3969a1612261763795-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/2/2/8ca82b59-8e1c-433d-b08e-9618e50e69cb1612261763818-3.jpg"
+      ],
+      "price": "1899",
+      "features": [
+        "Off-White and mustard printed kurta with patiala",
+        "Off-White and mustard straight knee length kurta",
+        "Has a band collar",
+        "Top fabric: Dupion Silk",
+        "Bottom fabric: Dupion Silk",
+        "Dry-clean",
+        "Long Sleeves",
+        "Product Code: 13577386"
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "Ed-a-Mamma",
+      "description": "Boys Blue Regular Fit Striped Casual Shirt",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/5/26/95e3536d-c26c-4096-b2b8-ac3aacc0378c1622029629132-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/5/26/95e3536d-c26c-4096-b2b8-ac3aacc0378c1622029629132-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/5/26/a64c1d4e-9120-49c0-8e91-eefec14626161622029629147-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/5/26/d185b85b-583f-4457-aa73-81e9a7d12b421622029629175-4.jpg"
+      ],
+      "price": "899",
+      "features": [
+        "Blue striped casual shirt",
+        "has a spread collar",
+        "button placket",
+        "curved hem",
+        "Material: Linen",
+        "Long Sleeves",
+        "Product Code: 14396008"
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "YK Minion",
+      "description": "Boys White & Black Pure Cotton Regular Fit Striped Casual Shirt",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13035626/2020/12/4/7dc52326-1b07-4428-b7a5-4c56e38516081607054119818-YK-Minion-Boys-White--Navy-Blue-Regular-Fit-Striped-Casual-S-2.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13035626/2020/12/4/7dc52326-1b07-4428-b7a5-4c56e38516081607054119818-YK-Minion-Boys-White--Navy-Blue-Regular-Fit-Striped-Casual-S-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13035626/2020/12/4/b1b0b840-8fcb-4b83-b6ef-1207d4bba68d1607054119780-YK-Minion-Boys-White--Navy-Blue-Regular-Fit-Striped-Casual-S-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13035626/2020/12/4/3bb6f334-86b0-4adb-83f7-5beb7af7fbea1607054119732-YK-Minion-Boys-White--Navy-Blue-Regular-Fit-Striped-Casual-S-4.jpg"
+      ],
+      "price": "1699",
+      "features": [
+        "White and black striped casual shirt with minion print detail",
+        "has a spread collar",
+        "short sleeves",
+        "button placket",
+        "curved hem",
+        "Material: Cotton",
+        "Machine-wash",
+        "Short Sleeves",
+        "Product Code: 13035626"
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "Superminis",
+      "description": "Boys Red Solid Cotton Casual Shirt",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/19/d3a45f86-997a-434d-a0ee-3b3f9fff56cc1618809832935-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/19/d3a45f86-997a-434d-a0ee-3b3f9fff56cc1618809832935-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/19/f7dc597d-0b8a-40d2-ad4d-06c270ce32a91618809832954-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/19/53c5d9e3-62f5-4812-a8da-3744002450421618809832973-3.jpg"
+      ],
+      "price": "1399",
+      "features": [
+        "Off-White and mustard printed kurta with patiala",
+        "Off-White and mustard straight knee length kurta",
+        "Has a band collar",
+        "Top fabric: Dupion Silk",
+        "Bottom fabric: Dupion Silk",
+        "Dry-clean",
+        "Long Sleeves",
+        "Product Code: 13577386"
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "United Colors of Benetton",
+      "description": "Boys Red & Blue Regular Fit Checked Hooded Casual Shirt",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12598182/2020/10/31/f2e8091d-4bc1-415d-9089-b211db960a8b1604154278372PyjamasMarksSpencerGirlsPyjamasMarksSpencerGirlsShirtsUnited1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12598182/2020/10/31/f2e8091d-4bc1-415d-9089-b211db960a8b1604154278372PyjamasMarksSpencerGirlsPyjamasMarksSpencerGirlsShirtsUnited1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12598182/2020/10/31/9f8dd0a9-bbea-42cd-8025-9cc6e139ef2b1604154278446PyjamasMarksSpencerGirlsPyjamasMarksSpencerGirlsShirtsUnited2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12598182/2020/10/31/263e9cf8-56fa-4010-b62e-ff5512db5a6d1604154278665PyjamasMarksSpencerGirlsPyjamasMarksSpencerGirlsShirtsUnited5.jpg"
+      ],
+      "price": "1999",
+      "features": [
+        "Red and Blue checked casual shirt",
+        "Has a hood",
+        "Long sleeves",
+        "Button placket",
+        "Curved hem",
+        "Cotton",
+        "Machine-wash",
+        "Product Code: 12598182"
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "naughty ninos",
+      "description": "Girls Navy Blue Printed Fit and Flare Dress",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7160110/2018/8/16/4c79249e-d13d-4b4b-8663-884b1f1fe1281534400232742-Naughty-Ninos-Girls-Navy-Blue-Floral-Printed-Cold-Shoulder-Dress-8021534400232648-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7160110/2018/8/16/4c79249e-d13d-4b4b-8663-884b1f1fe1281534400232742-Naughty-Ninos-Girls-Navy-Blue-Floral-Printed-Cold-Shoulder-Dress-8021534400232648-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7160110/2018/8/16/7ce92fa3-e6d4-4ace-831c-496316b055bd1534400232724-Naughty-Ninos-Girls-Navy-Blue-Floral-Printed-Cold-Shoulder-Dress-8021534400232648-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7160110/2018/8/16/5c56a0f2-996e-4803-b854-694aa73bcab31534400232707-Naughty-Ninos-Girls-Navy-Blue-Floral-Printed-Cold-Shoulder-Dress-8021534400232648-3.jpg"
+      ],
+      "price": "1699",
+      "features": [
+        "Navy Blue and purple printed woven fit and flare dress",
+        "has a boat neck",
+        "short sleeves",
+        "concealed zip closure",
+        "flared hem",
+        "Comes with a belt",
+        "Viscose Rayon and cotton",
+        "Machine-wash",
+        "Product Code: 7160110"
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "Stylo Bug",
+      "description": "Girls Red & White Printed A-Line Dress",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/30/27616ab6-d8c8-4faa-a81c-5b80585b253b1619782568144-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/30/27616ab6-d8c8-4faa-a81c-5b80585b253b1619782568144-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/30/2692e288-78a6-43ac-812c-07f62ddf97401619782568237-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/30/f744759e-c73a-4a56-a7c4-bd0b770b60141619782568220-4.jpg"
+      ],
+      "price": "2330",
+      "features": [
+        "Red and white printed A-line dress",
+        "has a round neck",
+        "button closure",
+        "high-low hem",
+        "Material: Viscose Rayon",
+        "Machine wash",
+        "Product Code: 14227618"
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "Nauti Nati",
+      "description": "Girls Navy Blue Printed Layered A-Line Dress with Bow Detail with Tassels",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12831768/2020/11/21/c50cdb89-3189-4208-a3f4-5ae6c84ce6651605938227005-Nauti-Nati-Girls-Navy-Blue-Printed-A-Line-Dress-349160593822-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12831768/2020/11/21/c50cdb89-3189-4208-a3f4-5ae6c84ce6651605938227005-Nauti-Nati-Girls-Navy-Blue-Printed-A-Line-Dress-349160593822-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12831768/2020/11/21/024b5173-4f2f-4b5b-b530-b4ac95fdfb1b1605938226958-Nauti-Nati-Girls-Navy-Blue-Printed-A-Line-Dress-349160593822-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12831768/2020/11/21/a57e3929-1688-4022-92d6-f053ddc253521605938226909-Nauti-Nati-Girls-Navy-Blue-Printed-A-Line-Dress-349160593822-3.jpg"
+      ],
+      "price": "1499",
+      "features": [
+        "Navy blue and white printed woven layered smocked A-line dress with embroidered ",
+        "has a bow detail with tassels",
+        "has adjustable shoulder straps",
+        "an attached lining",
+        "flared hem",
+        "Material Polyester",
+        "Machine-wash",
+        "Product Code: 12831768"
+      ]
+    },
+    {
+      "id": 11,
+      "brand": "Ed-a-Mamma",
+      "description": "Ed a Mamma Girls White Viscose Printed Kimono Sustainable Top with Lace Edging",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/6/21/15a8853a-5910-4f79-a233-36c9a28552061624270109073-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/6/21/15a8853a-5910-4f79-a233-36c9a28552061624270109073-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/6/21/5494e742-4730-40f2-a1d4-27d0b40239131624270109080-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/6/21/366fdd2f-5390-4a49-b6d6-87ff57bb6a2d1624270109089-3.jpg"
+      ],
+      "price": "1499",
+      "features": [
+        "White Tshirt for girls",
+        "Other printed",
+        "Regular length",
+        "Round neck",
+        "No sleeve ",
+        "Knitted viscose rayon fabric",
+        "Product Code: 14583952"
+      ]
+    },
+    {
+      "id": 12,
+      "brand": "Cub McPaws",
+      "description": "Girls Pink Printed Round Neck T-shirt",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/11/25/1f6e3373-70d6-4baf-a5ab-405215774d311606278769902-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/11/25/1f6e3373-70d6-4baf-a5ab-405215774d311606278769902-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/11/25/ebea0a9f-7cb1-448e-bd7f-78619feb654b1606278769951-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/11/25/db4b3882-e286-4721-98f7-c583897421301606278769998-3.jpg"
+      ],
+      "price": "1099",
+      "features": [
+        "Pink and Blue printed T-shirt",
+        "Has a round neck",
+        "Long sleeves",
+        "Material: Cotton",
+        "Machine Wash",
+        "Product Code: 13082192"
+      ]
+    },
+    {
+      "id": 13,
+      "brand": "Bitiya by Bhama",
+      "description": "Girls Black Ready to Wear Lehenga with Blouse",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/6/1/4b80e1b6-5ae2-485d-8a65-c31fdffec7821622552657449-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/6/1/4b80e1b6-5ae2-485d-8a65-c31fdffec7821622552657449-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/6/1/84b6709f-dc71-44ea-8e8a-6378255625311622552657485-5.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/6/1/7151c706-885a-4151-8561-64e65efa3cf31622552657458-2.jpg"
+      ],
+      "price": "1099",
+      "features": [
+        "Black lehenga choli",
+        "Black blouse",
+        "Sleeveless",
+        "Black ready to wear lehenga",
+        "Flared hem",
+        "Top Fabric: Cotton",
+        "Bottom Fabric: Cotton",
+        "Machine-wash",
+        "Product Code: 14432228"
+      ]
+    },
+    {
+      "id": 14,
+      "brand": "LilPicks",
+      "description": "Green Printed Basic Jumpsuit",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9279473/2019/4/12/b6f8b604-0e54-4778-9de9-4fb4f661602f1555073283316-Lilpicks-Ikat-Green-Full-Jumpsuit-2071555073281515-1.jpg",
+      "carousalimages": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9279473/2019/4/12/b6f8b604-0e54-4778-9de9-4fb4f661602f1555073283316-Lilpicks-Ikat-Green-Full-Jumpsuit-2071555073281515-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9279473/2019/4/12/4cf76e0c-bbb5-431c-895f-39bfbbc6ac1c1555073283214-Lilpicks-Ikat-Green-Full-Jumpsuit-2071555073281515-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9279473/2019/4/12/fafb5985-524e-47f0-97dd-5bb33b37dc2b1555073283282-Lilpicks-Ikat-Green-Full-Jumpsuit-2071555073281515-2.jpg"
+      ],
+      "price": "999",
+      "features": [
+        "Green printed basic jumpsuit",
+        "Has a round neck",
+        "Short sleeves",
+        "Material : Cotton",
+        "Machine-wash",
+        "Product Code: 9279473"
+      ]
+    }
+  ]
 }
-
-

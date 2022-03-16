@@ -5,8 +5,10 @@ const expressErrorHandler=require("express-async-handler")
 const bcryptjs=require("bcryptjs")
 const jwt=require("jsonwebtoken")
 
+
 //add body parser middleware
 userApi.use(exp.json())
+
 
 
 
@@ -84,33 +86,30 @@ userApi.delete('/deleteuser/:username',expressErrorHandler(async (req,res,next)=
 }))
 
 //user login
-userApi.post('/login', expressErrorHandler(async (req, res) => {
+userApi.post('/login',expressErrorHandler(async(req,res)=>{
     let userCollectionObj = req.app.get("userCollectionObj")
-
-    //get user credetials
-    let credentials = req.body;
+    //get user credentials
+    let credentials=req.body;
     //search user by username
-    let user = await userCollectionObj.findOne({ username: credentials.username })
+    let user=await userCollectionObj.findOne({username:credentials.username})
     //if user not found
-    if (user === null) {
-        res.send({ message: "invalid username" })
+    if(user===null){
+        res.send({message:"Invalid username"})
     }
-    else {
+    else{
         //compare the password
-        let result = await bcryptjs.compare(credentials.password, user.password)
+        let result=await bcryptjs.compare(credentials.password,user.password)
         //if not matched
-        if (result === false) {
-            res.send({ message: "Invalid password" })
+        if(result===false){
+            res.send({message:"Invalid password"})
         }
-        else {
+        else{
             //create a token
-            let signedToken = jwt.sign({ username: credentials.username },'abcd', { expiresIn: 10 })
-            //send token to client
-            res.send({ message: "login success", token: signedToken, username: credentials.username, userObj: user })
+            let signedToken=jwt.sign({username:credentials.username},'abcd',{expiresIn:120})
+            //send a token to client
+            res.send({message:"Logged in successfully", token: signedToken, username:credentials.username,userObj:user})
         }
-
     }
-
 }))
 
 
@@ -120,20 +119,20 @@ userApi.post("/add-to-cart", expressErrorHandler(async (req, res, next) => {
     let userCartCollectionObject = req.app.get("userCartCollectionObject")
 
     let newProdObject = req.body;
-    //console.log(newProdObject)
-
-    
+    console.log(newProdObject)
     //find usercartcollection 
     let userCartObj = await userCartCollectionObject.findOne({username:newProdObject.username})
-
     //console.log(userCartObj)
-
+    //console.log(newProdObject)
+    if(newProdObject.username===null){
+        res.send({message:"Login required"})
+    }
+    console.log(userCartObj)
     //if userCartObj is not existed
-    if (userCartObj === undefined) {
+     if (userCartObj === null) {
 
         //create new object
         let products = [];
-
         products.push(newProdObject.productObject)
 
         let newUserCartObject = { username:newProdObject.username, products }
@@ -141,6 +140,7 @@ userApi.post("/add-to-cart", expressErrorHandler(async (req, res, next) => {
         //insert it
         await userCartCollectionObject.insertOne(newUserCartObject)
 
+        
         let latestCartObj = await userCartCollectionObject.findOne({ username:newProdObject.username })
         res.send({ message: "New product Added", latestCartObj: latestCartObj })
 

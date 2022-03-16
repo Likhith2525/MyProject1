@@ -13,6 +13,9 @@ import { SignupComponent } from './signup/signup.component';
 import { LoginComponent } from './login/login.component';
 import { FormsModule } from "@angular/forms";
 import { BagComponent } from './bag/bag.component';
+import { KidsComponent } from './kids/kids.component';
+import { KidsdetailsComponent } from './kidsdetails/kidsdetails.component';
+import { SearchPipe } from './search.pipe';
 
 @NgModule({
   declarations: [
@@ -25,7 +28,10 @@ import { BagComponent } from './bag/bag.component';
     HomeComponent,
     SignupComponent,
     LoginComponent,
-    BagComponent
+    BagComponent,
+    KidsComponent,
+    KidsdetailsComponent,
+    SearchPipe
   ],
   imports: [
     BrowserModule,

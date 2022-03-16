@@ -1,0 +1,18 @@
+<!-- data of kids from db.json -->
+<div class="container">
+    <h1 class="text-danger text-center" *ngIf=false>KIDS</h1>
+    <input type="text" name="productTitle" placeholder="𝐒𝐞𝐚𝐫𝐜𝐡 𝐁𝐲 Brand"   class="form-control mt-3 w-75 d-block mx-auto  p-3" [(ngModel)]="searchTerm" style="background-color: white;border:1px solid rgb(238, 130, 130);border-radius: 25px;">
+     <div class="row row-cols-s-1 row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 mt-4 mb-4">
+        <div class="col" *ngFor="let menObj of men|search:searchTerm">
+            <div class="card bg-light" >
+               <img src={{menObj.image}} class="card-img-top" height="290px" alt="..." (click)="onClick(menObj.id)">
+              <div class="card-body">
+               <h5 class="card-title mt-2">{{menObj.brand}}</h5>
+               <h6 class="text-secondary description">{{menObj.description}}</h6>
+               <h5 class="text-dark">Rs. {{menObj.price}}</h5>
+    
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>

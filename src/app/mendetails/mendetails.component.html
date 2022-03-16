@@ -31,13 +31,23 @@
             <p class="text-danger"><strong>inclusive of all taxes</strong></p>
             <h6 class="mb-3">SELECT SIZE</h6>
             <div class="div mb-3">
-                <a class="button me-1 p-2">38</a>
-                <a class="button me-1 p-2">40</a>
-                <a class="button me-1 p-2">42</a>
-                <a class="button me-1 p-2">44</a>
-                <a class="button me-1 p-2 ">46</a>
+                <a class="button me-2 p-2" (click)="sendSize('38')" [style.background-color]="bgcolor1" >38</a>
+                <a class="button me-2 p-2" (click)="sendSize('40')" [style.background-color]="bgcolor2" >40</a>
+                <a class="button me-2 p-2" (click)="sendSize('42')" [style.background-color]="bgcolor3" >42</a>
+                <a class="button me-2 p-2" (click)="sendSize('44')" [style.background-color]="bgcolor4" >44</a>
+                <a class="button me-2 p-2" (click)="sendSize('46')" [style.background-color]="bgcolor5" >46</a>
 
-            </div>
+            </div> 
+            <!-- <div class="form-floating mb-3 ms-sm-4 me-sm-4">
+              <select class="form-select" id="floatingSelect" aria-label="Floating label select example" ngModel >
+                <option value="s1" ngModel>38</option>
+                <option value="s2" ngModel>39</option>
+                <option value="s3" ngModel>40</option>
+                <option value="s4" ngModel>42</option>
+              </select>
+              <label for="floatingSelect">Gender</label>
+            </div> -->
+
             <button class="btn text-white mt-4" (click)="onProductSelect(proddetails)" ><i class="fas fa-shopping-bag text-white me-2" ></i>ADD TO BAG</button>
             <p id="text" class="ms-1">HANDPICKED STYLES | ASSURED QUALITY</p>
              <h6>DELIVERY OPTIONS<i class="fas fa-truck ms-2"></i></h6>

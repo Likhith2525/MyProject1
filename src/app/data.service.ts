@@ -20,4 +20,10 @@ export class DataService {
     return this.hc.get<any>("http://localhost:3000/women")
     
   }  
+
+  getKidsData():Observable<any>{
+
+    return this.hc.get<any>("http://localhost:3000/kids")
+
+  }  
 }

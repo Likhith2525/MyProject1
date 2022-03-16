@@ -1,0 +1,59 @@
+#price{
+    background-color: #e1ecf1;
+    border-left: 5px solid #176c93;
+   font-weight: bold;
+    font-size: 20px;
+}
+
+#name{
+    color:#1e5a7f;
+
+}
+
+.mybag{
+    font-variant: small-caps;
+    
+}
+
+.row{
+    height: 230px;
+}
+
+#size{
+    background-color: #dad6d6;
+    color:rgb(61, 61, 61);
+}
+
+.coupon{
+    border:0px solid rgb(143, 143, 184);
+    padding: 10px 3px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 4px;
+    font-size: 15px;
+    color: black;
+}
+.amount{
+    border: 1px solid rgb(245, 47, 47);
+    text-decoration: none;
+    padding: 6px 50px;
+    color: rgb(253, 251, 251);
+    font-family: 'Poppins', sans-serif;
+    border-radius: 4px;
+    font-size: 15px;
+    background-color: rgb(245, 47, 47);
+    font-weight: 400;
+    text-align: center;
+}
+.check{
+    border: 1px solid rgb(245, 47, 47);
+    text-decoration: none;
+    padding: 5px 12px;
+    color: rgb(116, 35, 35);
+    font-family: 'Poppins', sans-serif;
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.check:hover{
+    cursor: pointer;
+}

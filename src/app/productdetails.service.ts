@@ -17,5 +17,9 @@ export class ProductdetailsService {
   getWomenDataById(id):Observable<any>{
     return this.hc.get('http://localhost:3000/women/'+id)
  }
+
+ getKidsDataById(id):Observable<any>{
+  return this.hc.get('http://localhost:3000/kids/'+id)
+}
  
 }

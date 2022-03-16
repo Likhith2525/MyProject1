@@ -3,20 +3,21 @@ import { Router } from '@angular/router';
 import { DataService } from '../data.service';
 
 @Component({
-  selector: 'app-women',
-  templateUrl: './women.component.html',
-  styleUrls: ['./women.component.css']
+  selector: 'app-kids',
+  templateUrl: './kids.component.html',
+  styleUrls: ['./kids.component.css']
 })
-export class WomenComponent implements OnInit {
-  women=[];
+export class KidsComponent implements OnInit {
+
+  men=[];
   searchTerm:string;
 
   constructor(private router:Router,private dsObj:DataService) { }
 
   ngOnInit() {
-    this.dsObj.getWomenData().subscribe(
+    this.dsObj.getKidsData().subscribe(
       data=>{
-        this.women=data;
+        this.men=data;
 
       },
       err=>{
@@ -27,7 +28,8 @@ export class WomenComponent implements OnInit {
   }
 
   onClick(id){
-    this.router.navigateByUrl('women/'+id)
+    this.router.navigateByUrl('kids/'+id)
   }
+
 
 }
